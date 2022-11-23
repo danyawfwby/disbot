@@ -3,7 +3,7 @@ import with_db
 import commands
 import autorole
 from discord.ext import commands as dis_commands
-
+#12
 with_db.create_table()
 
 TOKEN = "MTA0NDA1ODY5ODgxMDY1NDc1MQ.G83xcS.T93eo7qTNbV4irUS9_WsE_eCzYDaSN8VujV6Dc"
