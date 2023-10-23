@@ -6,7 +6,7 @@ from discord.ext import commands as dis_commands
 #12
 with_db.create_table()
 
-TOKEN = "MTA0NDA1ODY5ODgxMDY1NDc1MQ.G83xcS.T93eo7qTNbV4irUS9_WsE_eCzYDaSN8VujV6Dc"
+TOKEN = "MTA0NDA1ODY5ODgxMDY1NDc1MQ.G8*****************" //token
 VCI = 1044638181275996261 #VERIFY_CHAT_ID
 CCI = 1044639388715454544 #COMMAND_CHANNEL_ID
 
